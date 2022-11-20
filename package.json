@@ -1,0 +1,25 @@
+{
+  "name": "news-analysis",
+  "version": "1.0.0",
+  "description": "accesses news and compares that to asset movements",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarquisTheCoder/news-analysis.git"
+  },
+  "keywords": [
+    "node",
+    "crypto",
+    "news",
+    "api"
+  ],
+  "author": "MarquisTheCoder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarquisTheCoder/news-analysis/issues"
+  },
+  "homepage": "https://github.com/MarquisTheCoder/news-analysis#readme"
+}
